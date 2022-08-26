@@ -1,5 +1,5 @@
 # MADN
-##Effective Meta-Attention Dehazing Networks for Vision-Based Outdoor Industrial Systemsg
+## Effective Meta-Attention Dehazing Networks for Vision-Based Outdoor Industrial Systemsg
 ![image](https://github.com/dehazing/MADN/blob/main/dehazed_net.jpg)
 ### Dependencies 
    　 Python3.6
